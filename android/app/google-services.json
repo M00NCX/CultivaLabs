@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "580577715762",
+    "firebase_url": "https://cultivalabs-3bade-default-rtdb.firebaseio.com",
+    "project_id": "cultivalabs-3bade",
+    "storage_bucket": "cultivalabs-3bade.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580577715762:android:f8d4f03343d031143e3e2b",
+        "android_client_info": {
+          "package_name": "com.mycompany.cultivalabs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOfqoksb9iUaryyHI8UIhB8tCbmWfE4Fs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
