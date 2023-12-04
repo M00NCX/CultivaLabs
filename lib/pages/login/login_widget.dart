@@ -55,6 +55,7 @@ class _LoginWidgetState extends State<LoginWidget> {
           : FocusScope.of(context).unfocus(),
       child: Scaffold(
         key: scaffoldKey,
+        backgroundColor: const Color(0xFFF6F6F6),
         body: SafeArea(
           top: true,
           child: Align(
